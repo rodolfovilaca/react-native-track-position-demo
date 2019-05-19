@@ -1,0 +1,14 @@
+{
+    "tracker": {
+        "awscloudformation": {
+            "AuthRoleName": "trackpositiondemo-tracker-20190518185824-authRole",
+            "UnauthRoleArn": "arn:aws:iam::500026954886:role/trackpositiondemo-tracker-20190518185824-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::500026954886:role/trackpositiondemo-tracker-20190518185824-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "trackpositiondemo-tracker-20190518185824-deployment",
+            "UnauthRoleName": "trackpositiondemo-tracker-20190518185824-unauthRole",
+            "StackName": "trackpositiondemo-tracker-20190518185824",
+            "StackId": "arn:aws:cloudformation:us-east-2:500026954886:stack/trackpositiondemo-tracker-20190518185824/0fffb370-79b8-11e9-a2af-027d76990372"
+        }
+    }
+}

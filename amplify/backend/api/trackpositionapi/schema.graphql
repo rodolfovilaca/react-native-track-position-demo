@@ -1,0 +1,5 @@
+type Location @model {
+  id: ID!
+  lat: Int!
+  long: Int!
+}
